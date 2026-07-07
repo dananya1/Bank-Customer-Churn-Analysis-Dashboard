@@ -28,15 +28,15 @@ Power BI, Power Query, DAX
 
 3.Key fields used:
 
-Customer ID
-Gender
-Age
-Geography
-Credit Score
-Balance
-Number of Products
-Active Status
-Credit Card Status
+Customer ID, 
+Gender, 
+Age, 
+Geography, 
+Credit Score, 
+Balance, 
+Number of Products, 
+Active Status, 
+Credit Card Status, 
 Churn Status
 
 **Steps Performed**
@@ -47,16 +47,16 @@ Churn Status
 
 3.Created KPI measures in DAX such as:
 
-Total Customers
+Total Customers, 
 Churn Rate
 
 4.Built interactive visuals to analyze churn by:
 
-Age groups
-Credit score bands
-Account balance ranges
-Country
-Active status
+Age groups, 
+Credit score bands, 
+Account balance ranges, 
+Country, 
+Active status, 
 Product holdings
 
 **Key Insights**
